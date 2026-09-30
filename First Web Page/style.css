@@ -1,0 +1,40 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+#main{
+  height: 100%;
+  width: 100%;
+  /* background-color: aqua; */
+}
+
+#header{
+  height: 10%;
+  width: 100%;
+  background-color: rgb(210, 166, 107);
+  position: fixed;
+}
+
+#fakeHeader{
+  height: 10%;
+  width: 100%;
+}
+
+#page1{
+  height: 90%;
+  width: 100%;
+  background-color: rgb(172, 128, 212);
+}
+
+#page2{
+  height: 90%;
+  width: 100%;
+  background-color: rgb(140, 135, 146);
+}
