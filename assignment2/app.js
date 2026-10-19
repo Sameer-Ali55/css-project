@@ -204,9 +204,3 @@ taskList.addEventListener("click", function (event) {
     saveTasks();
   }
 });
-
-// loadTasks();
-// console.log("JavaScript is working!");
-// console.log("Add button:", addTaskBtn);
-// console.log("Task list:", taskList);
-// console.log("Saved tasks:", localStorage.getItem("tasks"));
